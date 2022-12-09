@@ -1,3 +1,18 @@
+
+# list_num	
+# Name	
+# Bioegradation Condition (1)-Solution	
+# Biodegradation Condition (2)-Sample size	
+# Biodegradation Time	
+# erosion	
+# Glass Transition Temperature(°C)	
+# Melting Point(°C)	
+# Elongation(%)	
+# Tensile Strength(MPa)	
+# Young's Modulus(Mpa)	
+# Density(g/cm3)	
+# Ref
+
 poly_data = [
 ['0','Poly(L-lactide)_PLLA','PBS (pH: 7.4, 37℃)','cylindrical (diameter:15mm)','0.130%/day (154 days)','bulk','55 ~ 65','170 ~ 200','3.0 ~ 10.0','15.5 ~ 150','2.7 ~ 4.14','1.24 ~ 1.30','1~6',],
 ['1','Poly(dl-lactide)_PDLLA','PBS (pH: 7.4±0.2, 37℃)','cylindrical (diameter:0.91±0.12μm)','0.179%/day (84 days)','dong_min','50 ~ 60','dong_min','2.0 ~ 10.0','27.6 ~ 50','1 ~ 3.45','1.25 ~ 1.27','1,5~8',],
