@@ -3,7 +3,7 @@
 # Name	
 # Bioegradation Condition (1)-Solution	
 # Biodegradation Condition (2)-Sample size	
-# Biodegradation Time	
+# Biodegradation Rate
 # erosion	
 # Glass Transition Temperature(°C)	
 # Melting Point(°C)	
